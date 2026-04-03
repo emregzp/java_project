@@ -445,7 +445,7 @@ public class TileGame {
     }
 
     // Set2'yi puan/adım bilgisiyle birlikte gösterir.
-    // Skor bilgisi: 3. satırda (index 2) ya da karttı sayısı 3'ten azsa son satırda.
+    // Skor bilgisi: 3. satırda (index 2) ya da kart sayısı 3'ten azsa son satırda.
     static void displaySet2WithScore() {
         int size2 = set2.size();
 
