@@ -1,0 +1,5 @@
+# Java compiled classes
+*.class
+
+# High score file (generated at runtime)
+HighScoreTable.txt
